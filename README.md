@@ -1,1 +1,1 @@
-Game "Pendue" with 4 letters words.
+Game "Pendue" with 8 letters words.
